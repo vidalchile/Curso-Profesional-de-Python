@@ -1,0 +1,14 @@
+Programacion orientada a objetos  => es un paradigma de programación
+
+Clase (Lapices) (una clase es un molde)
+	Lapiz (Existen distintos tipos de lapices, pero toodos tienen algo genérico)
+		tamaño
+		color
+		punta
+		etc
+
+Objeto = Entidad con caracteristicas (variables, atributos) y acciones (metodos)
+
+Entidades = Objetos (Tienen rasgos diferentes) => lapiz, goma
+
+en python todo es un objeto
